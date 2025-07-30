@@ -1,4 +1,4 @@
-Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [[Strahd von Zarovich]], a vampire and wizard. Using a [[Tarokka Cards|deck of tarokka cards]] to predict their future, a fortune-teller named [[Madam Eva]] sets them on a dark course that takes them to many corners of [[Barovia]], culminating with a vampire hunt in [[Castle Ravenloft]].
+Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [[Strahd von Zarovich]], a vampire and wizard. Using a [[Fortunes of Ravenloft|deck of tarokka cards]] to predict their future, a fortune-teller named [[Madam Eva]] sets them on a dark course that takes them to many corners of [[Barovia]], culminating with a vampire hunt in [[Castle Ravenloft]].
 
 Madam Eva's people are called the [[Vistani]]. They travel in covered wagons from world to world, luring strangers into Strahd's domain.
 

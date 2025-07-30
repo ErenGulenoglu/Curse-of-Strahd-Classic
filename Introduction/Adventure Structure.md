@@ -7,5 +7,5 @@ Chapter 1 also outlines Strahd’s goals and suggests adventure hooks to draw th
 The **epilogue** presents ways to conclude the adventure.
 - **Appendix C** details the special items—magical or otherwise—introduced in the story.
 - **Appendix D** provides stat blocks for Strahd and various NPCs and monsters that may be encountered in Barovia.
-- **Appendix E** shows the **[[Tarokka Cards|tarokka]]** cards the Vistani use for fortune-telling.
+- **Appendix E** shows the **[[Fortunes of Ravenloft|tarokka cards]]** the Vistani use for fortune-telling.
 - **Appendix F** contains **player handouts** to help immerse your players in the story.
