@@ -62,5 +62,5 @@ Members of the Zhentarim think of themselves as members of an extended family an
 [[Strahd von Zarovich|Strahd]] is using the werewolves to lure adventurers to his domain. Characters can follow the werewolves' tracks into the Misty Forest. After hours of fruitless searching, the characters are engulfed by thick fog:
 
 	The woods darken as the trees begin to close ranks, their needle-covered arms interlocking to blot out the sun. The shroud of mist that covers the ground turns into creeping walls of gray fog that silently envelop you until you can't see more than a few feet in any direction. Soon, even the werewolf tracks disappear.
-No matter which direction they go, the characters come to a lonely dirt road that cuts through the woods, leading to area A (see chapter 2). <mark style="background: #FFF3A3A6;">As an alternative, you can have them enter Barovia near [[Krezk]] (see chapter 8).</mark>
+No matter which direction they go, the characters come to a lonely dirt road that cuts through the woods, leading to area A (see chapter 2). <mark style="background: #FFF3A3A6;">As an alternative, you can have them enter Barovia near [[The Village of Krezk|Krezk]] (see chapter 8).</mark>
 
