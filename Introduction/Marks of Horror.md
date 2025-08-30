@@ -25,7 +25,7 @@ A tale that is perpetually dark in tone becomes tiresome very quickly. It needs 
 ## Personification
 Ascribing human characteristics to an inanimate thing is one way to turn something ordinary into something malevolent. A groaning house, the wailing wind, grasping mud, and a squatting chest aren't just mundane things—they're characters in your story, made all the creepier thanks to their humanlike traits. Torches sputter nervously, rusty hinges shatter silence with their sudden cries of anguish, and cobwebs quietly beckon us to our doom. Here are more examples:
 - Imagine darkness as a silent crowd that follows the characters everywhere and stares at them while they sleep.
-- Imagine trees as towering giants that stand idle yet ever watchful as characters face the perils of [[Svalich Woods|the Svalich Woods]] alone.
+- Imagine trees as towering giants that stand idle yet ever watchful as characters face the perils of the Svalich Woods alone.
 
 ## Details
 In a horror story, there's no telling where danger might be lurking. A leering gargoyle might be a monster in disguise, or merely a fiendish sculpture. A mirror hanging on a wall might have the power to transfix all who gaze into it, or it might be nothing out of the ordinary. In a horror story, taking the time to describe an object in detail draws attention to it, makes one suspicious of it, and might distract from the real danger.

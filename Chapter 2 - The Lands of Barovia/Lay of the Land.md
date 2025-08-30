@@ -1,0 +1,13 @@
+Rolling thunderclouds cast a gray pall over the land of [[Barovia]]. A deathly stillness hangs over the  dark woods, which are patrolled constantly by [[Strahd von Zarovich|Strahd]]'s wolves and other servitors.
+
+The evergreen trees of the Svalich Woods climb the sides of the mountains that enclose the valley. The largest of these peaks is Mount Baratok, with its snow-covered cap and rugged slopes. Baratok's slightly smaller twin, Mount Ghakis, is mostly bald with tufts of trees here and there. Between these two mountains stands Lake Zarovich, which is fed by streams of ice-cold water pouring down the face of Mount Baratok.
+
+On the south side of the lake rests the town of [[The Town of Vallaki|Vallaki]], enclosed by a palisade. West of the two mountains, atop a hill, stands [[Areas of the Abbey|the Abbey of Saint Markovia]], around which the [[Barovians]] built a walled village named [[The Village of Krezk|Krezk]]. Between Vallaki and Krezk lie the ruins of [[Argynvostholt]], the fallen bastion of a knightly order called the Order of the Silver Dragon, wiped out by Strahd and his army. East of the mountains lies [[The Village of Barovia|the village of Barovia]], shrouded in mist and bereft of walls and defenses. The dark silhouette of [[Castle Ravenloft]] looks down on this village from its perch atop a 1,000-foot-high column of rock known as the Pillarstone of Ravenloft.
+## Mists of Ravenloft
+A deadly fog surrounds the land of Barovia and engulfs any creature that tries to leave. Even flying creatures are subject to the fog's effects, which are as follows:
+- A creature that starts its turn in the fog must succeed on a DC 20 Constitution saving throw or gain one level of exhaustion (see appendix A in the _Player's Handbook_). This exhaustion can't be removed while the creature is in the fog.
+- No matter how far a creature travels in the fog, or in which direction it goes, it gets turned around so that it eventually finds itself back in Barovia.
+- The area within the fog is heavily obscured (see "Vision and Light" in chapter 8 of the _Player's Handbook_).
+## Sunlight in Barovia
+By the will of the Dark Powers, the sun never fully shines in the lands of Barovia. Even during the day, the sky is dimmed by fog or storm clouds, or the light is strangely muted. Barovian daylight is bright light, yet it isn't considered sunlight for the purpose of effects and vulnerabilities, such as a vampire's, tied to sunlight.
+Nevertheless, Strahd and his vampire spawn tend to stay indoors most of the day and venture out at night, and they are subject to sunlight created by magic.
