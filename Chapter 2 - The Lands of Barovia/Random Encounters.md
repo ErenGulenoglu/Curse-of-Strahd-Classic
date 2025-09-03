@@ -126,3 +126,114 @@ Have each of the characters in the front rank of the party's marching order make
 
 	You spot a wolf trap, its steel jaws caked with rust. Some one has carefully hidden the trap under a thin layer of pine needles and detritus.
 Barovian hunters and trappers set these traps hoping to thin out the wolf population, but Strahd's wolves are too clever to be caught in them. If none of the characters in the front rank spots the hidden trap, one random party member steps on it. Rules for the hunting trap are presented in chapter 5, "Equipment," of the _Player's Handbook_.
+
+**Needle Blights**
+
+	Hunched figures lurch through the mist, their gaunt bodies covered in needles.
+The woods crawl with needle blights that serve the evil druids of Barovia. If the characters are moving quietly and not carrying light sources, they can try to hide from these blights.
+
+**Revenant**
+
+	A figure walks alone with the stride and bearing of one who knows no fear. Clad in rusty armor, it clutches a gleaming longsword in its pale hand and looks ready for a fight.
+From a distance, the revenant looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom (Insight) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
+
+The revenant was a knight of the Order of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
+
+As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing 15 (2d10 + 4) slashing damage on each hit.
+
+If the characters present themselves as enemies of Strahd, the revenant urges them to travel to [[Argynvostholt]] (chapter 7) and convince Vladimir Horngaard, .the leader of the Order,of the Silver Dragon, to help them. The revenant would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revenant to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
+
+**Scarecrows**
+If at least one character has a passive Wisdom (Percep tion) score of 11 or higher, read:
+
+	A scarecrow lurches into view. Its sackcloth eyes and rictus are ripe with malevolence, and its gut is stuffed with dead ravens. It has long, rusted knives for claws.
+If more than one scarecrow is present, the others are close by. If none of the characters has a passive Wisdom (Perception) score of 11 or higher, the scarecrows catch the party by surprise. 
+
+Baba Lysaga (see chapter 10, area U3) crafted these scarecrows to hunt down and kill ravens and were ravens. The scarecrows are imbued with evil spirits and delight in murdering anyone they encounter.
+
+**Skeletal Rider**
+
+	Through the mist comes a skeletal warhorse and rider, both clad in ruined chainmail. The skeletal rider holds up a rusted lantern that sheds no light.
+The human **skeleton** and **warhorse skeleton** are all that remain of a rider and mount, both of whom perished trying to escape through the fog that surrounds Barovia. They are doomed to ride through the valley in search of another way out, without hope of salvation. The skeletons ignore the characters unless attacked. 
+
+If both the rider and its mount are destroyed, this encounter can't occur again. The destruction of one skeleton doesn't prevent future encounters with the other.
+
+**Strahd Zombies**
+
+	Not even the cloying fog can hide the stench of death that descends upon you. Something evil approaches, its footsteps betrayed by snapping twigs.
+
+If the characters are moving quietly and not carrying light sources, they can try to hide from the Strahd zombies. These undead soldiers once served as guards in Castle Ravenloft. They fled the castle after Strahd became a vampire but couldn't avoid their master's wrath. They still wear bits of tattered livery, and they attack the living on sight.
+
+**Swarms of Bats**
+
+	The stillness of the night is shattered by the shriek of bats and the flapping of tiny black wings.
+These bats are the servants of Strahd. They attack the characters without provocation.
+
+**Swarms of Ravens**
+
+	Your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keep ing a respectful distance.
+The raven doesn't caw or try to communicate with the characters. If they leave it alone, read:
+
+	More ravens begin to take an interest in you. Before long, their numbers swell, and soon hundreds of them are watching you.
+The ravens fly away if attacked. If they are left alone, they watch over the party, remaining with the characters until they reach Castle Ravenloft or a settlement. If the characters have a random encounter with hostile creatures, the raven swarms aid the characters by attacking and distracting their enemies.
+
+**Trinket**
+
+	You find something on the ground.
+A random character finds a lost trinket. Roll on the Trinkets table in appendix A, select a specific trinket from the table, or create one on the fly.
+
+**Vistani Bandits**
+
+	You catch a whiff of pipe smoke in the cold air and hear laughter through the fog.
+These evil Vistani march through the Barovian wilderness without concern for their well-being, smoking pipes, drinking from wineskins, and telling ghost stories. They are searching for graves to plunder or hunting small game. For a price of 100gp, they offer to serve as guides. As long as these Vistani are with the party, roll a d12 instead of a d12 + d8 when determining random encounters in the wilderness. In addition, wolves and dire wolves don't threaten the characters as long as the Vistani are travelling with them and aren't their prisoners.
+**_Treasure._** One Vistani bandit carries a pouch that holds 2d4 small gemstones (worth 50gp each).
+
+**Wereraven**
+This wereraven in raven form watches the characters from a distance. Compare its Dexterity (Stealth) check result to the characters' passive Wisdom (Perception) scores to see whether it remains hidden from the party.
+
+If one or more characters spot the creature, read:
+
+	Through the mist, you see a black bird circling overhead. When it feels your eyes upon it, the raven flies away, but it's back before long, keeping its distance.
+The wereraven belongs to a secret order called the Keepers of the Feather. If the characters don't spot it, the wereraven shadows them for 1d4 hours. At the end of that time, or anytime sooner if the characters attack it, the creature flies home to report what it has seen.
+
+If the party has a second random encounter with a wereraven, this one presents itself to the characters as an ally and requests that they travel to the Blue Water Inn in Vallaki to meet "some new friends." It then flies off in the direction of the town.
+
+**Werewolves**
+If the werewolves are in human form, read:
+
+	A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick muttonchops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.
+If the werewolves are in wolf form, read:
+
+	You hear the howl of a wolf some distance away.
+How the werewolves act depends on the form they have taken.
+
+**Human Form.** Werewolves in human form pretend to be trappers. If more than one is present, the others are within whistling distance.
+
+They try to befriend the characters to see if they are carrying silvered weapons. If the characters appear to have no such weapons, the werewolves assume hybrid form and attack. Otherwise, they part company with the characters and leave well enough alone.
+
+**Wolf Form.** Werewolves in wolf form follow the party from a safe distance for several hours. If their Dexterity (Stealth) checks exceed the characters passive Wisdom (Perception) scores, the werewolves attack with surprise when the characters decide to take a short or long rest. Otherwise, they wait until the characters are weakened by another random encounter before moving in for the easy kill.
+
+[[Werewolf Den|The werewolves' lair]] is a cave complex that overlooks Lake Baratok (area Z). If you used the "Werewolves in the Mist" adventure hook to lure the characters to Barovia, captured werewolves can be forced to divulge the location of their den, where they keep their prisoners.
+
+**Will-O'-Wisp**
+This random encounter occurs only once. If it comes up again, treat the result as no encounter.
+
+	Several hundred yards away, through the fog, you see a flickering torchlight.
+If the characters follow the flickering light, read:
+
+	The torchlight flutters as it moves away from you, but you never lose sight of it. You make your way quickly yet cautiously through the fog until you come upon the shell of a ruined tower. The upper floors of the structure have collapsed, leaving heaps of rubble and shattered timber around the tower's base. The feeble light moves through an open doorway on the ground floor, then flickers and goes out.
+The light is a will-o'-wisp that enters the ruined tower and becomes invisible, hoping to lure the characters in side to their doom.
+
+The floor of the tower is made of packed earth. Its interior is desecrated ground (see "Wilderness Hazards" in chapter 5 of the _Dungeon Master's Guide_). Against the inside wall of the tower, across from the open doorway, is a closed, empty wooden chest.
+
+If the characters disturb the chest, 3d6 zombies erupt from the earthen floor and attack. Once the zombies appear, the will-o'-wisp becomes visible and joins the fray.
+
+**Wolves**
+
+	This land is home to many wolves, their howls at the moment too close for comfort.
+Characters have a few minutes to steel themselves be fore these wolves attack. They heed the will of Strahd and can't be charmed or frightened.
+
+**Zombies**
+
+	The ungodly stench of rotting flesh hangs in the air. Up ahead, the walking, moaning corpses of dead men and women lumber about.
+These unfortunate Barovians fell prey to the evils of the land and now shamble from place to place as a ravenous mob.
