@@ -14,7 +14,7 @@ If an area of the adventure ends up feeling free of mystery or danger, consider 
 - **4th Level**: [[The Town of Vallaki|Town of Vallaki]] (Chapter 5)
 - **4th Level**: [[Old Bonegrinder]] (Chapter 6)
 - **5th Level**: [[The Village of Krezk|Village of Krezk]] (Chapter 8)
-- **5th Level**: [[Wizard of Wines Winery|The Wizard of Wines]] (Chapter 12)
+- **5th Level**: [[The Wizard of Wines|The Wizard of Wines]] (Chapter 12)
 - **6th Level**: [[Van Richten's Tower]] (Chapter 11)
 - **6th Level**: [[Yester Hill]] (Chapter 14)
 - **7th Level**: [[Argynvostholt]] (Chapter 7)

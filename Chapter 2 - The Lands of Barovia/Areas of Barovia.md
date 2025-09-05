@@ -143,11 +143,11 @@ Chapter 4 explores Castle Ravenloft, lair of the vampire Strahd von Zarovich.
 
 ## L. Lake Zarovich
 	At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.
-If the characters arrive along the shore north of Vallaki in the daytime, add:
+If the characters arrive along the shore north of [[The Town of Vallaki|Vallaki]] in the daytime, add:
 
 	Pulled up along the south shore are three small row boats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
 
-Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human **commoner**), a resident of [[The Town of Vallaki|Vallaki]]. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[Arabelle]] (LN female human commoner with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
+Each rowboat can safely hold five people. The person fishing on the lake is Bluto Krogarov (NE male human **commoner**), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[Arabelle]] (LN female human commoner with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying prone so that she can't be seen or heard from the shore.
 
 **Roleplaying Bluto**
 Bluto Krogarov is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
@@ -174,7 +174,7 @@ The Mad Mage has forgotten his name and the world whence he came. In fact, he do
 
 Believing that the characters aim to kill him, the Mad Mage unleashes his destructive magic. As he tears into them, he shouts, "You think my magic has grown weak? Think again!" If he is reduced to 50 hit points or fewer, he shouts, "Tell your dark masters they can break my body, but never my spirit!" He then tries to escape.
 
-Under normal circumstances, a greater restoration spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an archmage of Oerth and the leader of a powerful group of adventurers called the Circle of Eight But in this case, the Mad Mage has cast a mind blank spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma (Persuasion) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence (Arcana) check. The Mad Mage's mind blank spell has a remaining duration of 3d6 hours, after which his madness can be cured normally.
+Under normal circumstances, a greater restoration spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than [[Mordenkainen]], an archmage of Oerth and the leader of a powerful group of adventurers called the Circle of Eight But in this case, the Mad Mage has cast a mind blank spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma (Persuasion) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence (Arcana) check. The Mad Mage's mind blank spell has a remaining duration of 3d6 hours, after which his madness can be cured normally.
 
 The Mad Mage has a different spell list from that of the archmage in the _Monster Manual_, and he has already used one 1st-level spell slot to cast mage armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast mind blank on himself.
 
@@ -188,3 +188,56 @@ The Mad Mage has a different spell list from that of the archmage in the _Monste
 **7th level (1 slot):** Mordenkainen’s Magnificent Mansion
 **8th level (1 slot):** Mind Blank
 **9th level (1 slot):** Time Stop
+
+**The Mad Mage's Mansion**
+If the characters rescue the archmage from his madness, he invites them to his "mansion." He leads them up the mountain to an invisible doorway that serves as the entrance to his extradimensional lair, created using the _Mordenkainen's magnificent mansion_ spell. There, he provides them with food and sanctuary away from the prying eyes of Strahd and his spies. Characters are free to take a short or long rest, during which time they aren't disturbed.
+
+Mordenkainen is familiar with worlds beyond his own. For example, if the characters come from the For gotten Realms and mention this fact to Mordenkainen, he asks them if they know his old friend Elminster of Shadowdale.
+
+If Mordenkainen isn't the party's ally as foretold in Madam Eva's card reading (see chapter 1), he declines to join them if asked. With his wits restored, he sets out to find his missing staff and spellbook, leaving the characters on their own. He doesn't allow them to help him, for he fears they might be tempted to steal either his staff or his spellbook. (Being an adventurer himself, he knows how the lure of powerful magic can bring out the worst in adventurers.) Before he leaves, as a parting gift, the archmage imbues each character with a _charm of heroism_ (see "Supernatural Gifts" in chapter 7 of the _Dungeon Master's Guide_).
+
+**Fortunes of Ravenloft**
+If your card reading reveals that the Mad Mage is the party's ally in the battle against Strahd, Mordenkainen can be persuaded to help them once his sanity is restored. He won't join them on their travels, but he will help them in a fight with Strahd if they have discovered where to find the vampire and how to destroy him.
+
+With his sanity restored, Mordenkainen can be stubborn and difficult even with his friends, and doesn't suffer fools. He normally spends more time listening than talking, but when he does speak, his pronouncements are authoritative and not to be questioned.
+
+The archmage has never had his fortune read by Madam Eva and doesn't care to, but if he is told about the _Holy Symbol of Ravenkind_, the _Tome of Strahd_, and the _Sunsword_, he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the archmage gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
+## N. Town of Vallaki
+Chapter 5 describes the town of Vallaki.
+## O. Old Bonegrinder
+Chapter 6 details Old Bonegrinder, a decrepit windmill occupied by hags.
+## P. Luna River Crossroads
+Always check for a random encounter when the characters reach area P in their travels.
+
+	The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.
+The characters can easily figure out how the top half of the signpost connects to the lower half. When the two parts of the sign are aligned and rejoined, the arms indicate KREZK and TSOLENKA PASS to the southwest, LAKE BARATOK to the northwest, VALLAKI and RAVENLOFT to the northeast, and BEREZ to the southeast.
+
+The Old Svalich Road, which runs northeast to south west between Vallaki (area N) and [[The Village of Krezk|Krezk]] (area S), is generally level. About a quarter mile along the northeast branch, an arching stone bridge crosses the Luna River.
+
+The northwest branch of the crossroads climbs gently, becoming a dirt trail through the woods within half a mile. It merges with the Old Svalich Road again after couple of miles, but not before sprouting a branch that leads to [[Van Richten's Tower]] on Lake Baratok (area V). The southeast branch wends gently downward as it follows the river into a valley. This trail eventually ends at the mostly abandoned riverside burg of Berez (area U).
+## Q. Argynvostholt
+Chapter 7 details the ruined mansion [[Argynvostholt]], once a refuge of the Order of the Silver Dragon, which opposed Strahd and failed.
+## R. Raven River Crossroads
+Always check for a random encounter whenever the characters reach area R.
+
+This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to Van Richten's Tower on Lake Baratok (area V). One branch heads south, becoming [[Tsolenka Pass]] (area T) as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward [[The Wizard of Wines|the Wizard of Wines]] winery and vineyard (area W), dipping south as it changes from a road into a gravel trail.
+
+Standing at the intersection of the Old Svalich Road and the road to the winery is a signpost:
+
+	You see a weatherworn signpost next to the road. The three arms of the sign point along the three branches of the road. The arm pointing north reads KREZK, and through the woods you can see an arching stone bridge spanning a river. The arm pointing east reads VALLAKI, and the road slopes up gradually in that direction. The arm pointing southwest reads THE WIZARD OF WINES. The road slopes gently downward in that direction.
+## S. Village of Krezk
+Chapter 8 visits the village of Krezk and the nearby Abbey of Saint Markovia.
+## T. Tsolenka Pass
+Chapter 9 explores the Tsolenka Pass, which hugs the side of Mount Ghakis.
+## U. Ruins of Berez
+Chapter 10 describes the ruins of Berez, a riverside village that is now home to the hag [[Baba Lysaga]].
+## V. Van Richten's Tower
+Chapter 11 details Van Richten's Tower, a dilapidated structure that originally belonged to the wizard [[Khazan]].
+## W. The Wizard of Wines
+Chapter 12 visits the Wizard of Wines, the vineyard and winery that provides Barovia much of its wine.
+## X. The Amber Temple
+Chapter 13 delves into the Amber Temple, the dungeon complex where Strahd gave himself to the Dark Powers.
+## Y. Yester Hill
+Chapter 14 describes [[Yester Hill]], a remote hilltop that belongs to druids who venerate Strahd as lord of the land.
+## Z. Werewolf Den
+Chapter 15 delves into the cave complex that is the main den of Barovia's werewolves.
