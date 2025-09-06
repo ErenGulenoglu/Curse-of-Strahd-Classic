@@ -8,13 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db8abc7d52fa2227",
+            "id": "31bce45bf7a472d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GameNotes/Chapter 0 - Death House/Areas of The House.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Areas of The House"
+            }
+          }
+        ]
+      },
+      {
+        "id": "26419619d3ff3a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a6aca06f8d1f96",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library)"
+            }
+          },
+          {
+            "id": "3dd278b4b1c11db2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/death_house_dm.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "death_house_dm"
             }
           }
         ]
@@ -74,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a1b6e1d2f109d631",
@@ -153,8 +187,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -177,23 +211,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db8abc7d52fa2227",
+  "active": "31bce45bf7a472d7",
   "lastOpenFiles": [
-    "Session Notes/Preparation Schema.md",
-    "Untitled.base",
-    "GameNotes/Chapter 0 - Death House/Areas of The House.md",
     "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library).pdf",
+    "GameNotes/Chapter 0 - Death House/Areas of The House.md",
     "Assets/Maps/death_house_dm.jpeg",
+    "GameNotes/Chapter 0 - Death House/Strahd Letter.md",
+    "Assets/Art/von_zarovich_crest.png",
+    "GameNotes/Chapter 0 - Death House/Death House.md",
+    "Untitled.base",
+    "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
+    "Session Notes/Preparation Schema.md",
     "Assets/Maps/Barovia_Map_Alternative.webp",
     "Assets/Maps/dm_map.png",
     "Assets/Tokens/strahd.webp",
     "Assets/Maps/Barovia_Map.jpg",
-    "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
     "Assets/Maps/death_house.jpg",
     "GameNotes/Chapter 2 - The Lands of Barovia/Barovians.md",
     "Assets/Art/rose_thorn.png",
     "GameNotes/Chapter 0 - Death House/History.md",
-    "GameNotes/Chapter 0 - Death House/Death House.md",
     "GameNotes/Chapter 1 - Into the Mists/Strahd von Zarovich.md",
     "Assets/Stats/strahd_stats.png",
     "GameNotes/Chapter 2 - The Lands of Barovia/Areas of Barovia.md",
@@ -220,7 +256,6 @@
     "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks/Adventure Hooks.md",
     "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks/Creeping Fog.md",
     "GameNotes/Welcome.md",
-    "GameNotes/README.md",
     "GameNotes/Chapter 2 - The Lands of Barovia",
     "Session Notes"
   ]
