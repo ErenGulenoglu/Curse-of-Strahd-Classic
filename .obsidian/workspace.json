@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c6996f1e529453c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "54391f994372d548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db8abc7d52fa2227",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb36cbbd83d9a647",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ddd4e418ef9f6de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91dd9e473b9089c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ad5e7061d9b9f19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a046501ac45804bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1b6e1d2f109d631",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8a44181708e228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69689d24e426fbca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b052bd6749c4903d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "c1bd23783b9025e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7693276d9a6b8280",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Adventure Hooks"
+            }
+          },
+          {
+            "id": "33ca67530405bcc4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "db8abc7d52fa2227",
+  "lastOpenFiles": [
+    "Session Notes/Preparation Schema.md",
+    "Untitled.base",
+    "GameNotes/Chapter 0 - Death House/Areas of The House.md",
+    "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library).pdf",
+    "Assets/Maps/death_house_dm.jpeg",
+    "Assets/Maps/Barovia_Map_Alternative.webp",
+    "Assets/Maps/dm_map.png",
+    "Assets/Tokens/strahd.webp",
+    "Assets/Maps/Barovia_Map.jpg",
+    "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
+    "Assets/Maps/death_house.jpg",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Barovians.md",
+    "Assets/Art/rose_thorn.png",
+    "GameNotes/Chapter 0 - Death House/History.md",
+    "GameNotes/Chapter 0 - Death House/Death House.md",
+    "GameNotes/Chapter 1 - Into the Mists/Strahd von Zarovich.md",
+    "Assets/Stats/strahd_stats.png",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Areas of Barovia.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Alterations to Magic.md",
+    "GameNotes/Chapter 1 - Into the Mists/Fortunes of Ravenloft.md",
+    "Assets/Stats/strahd_stats.jpeg",
+    "Assets/Stats",
+    "Session Notes/Session 0.md",
+    "GameNotes/Introduction/Adventure Intro.md",
+    "GameNotes/Chapter 0 - Death House",
+    "GameNotes/Introduction/Adventure Structure.md",
+    "GameNotes/Introduction/Marks of Horror.md",
+    "GameNotes/Introduction/Character Levels.md",
+    "GameNotes/Introduction/Story Overview.md",
+    "Assets/Art",
+    "Assets/Maps",
+    "Assets/Tokens",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Random Encounters.md",
+    "Untitled.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia/The Lands of Barovia.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Lay of the Land.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Vistani.md",
+    "GameNotes/Side Tables",
+    "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks/Adventure Hooks.md",
+    "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks/Creeping Fog.md",
+    "GameNotes/Welcome.md",
+    "GameNotes/README.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia",
+    "Session Notes"
+  ]
+}
