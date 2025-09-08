@@ -155,3 +155,164 @@ A ghost reduced to 0 hit points can reform at dawn the next day. The only way to
 
 **Development**
 If the party lays the children's spirits to rest, each character gains inspiration (see "Inspiration" in chapter 4, "Personality and Background," of the _Player's Handbook_).
+## 21. Secret Stairs
+A narrow spiral staircase made of creaky wood is contained within a 5-foot-wide shaft of mortared stone that starts in the attic and descends 50 feet to the dungeon level, passing through the lower levels of the house as it makes its descent. Thick cobwebs fill the shaft and reduce visibility in the staircase to 5 feet.
+
+The secret door and shaft don't exist until the house reveals them, which can happen in one of two ways:
+- The characters find Strahd's letter in the secret room behind the library (area 9).
+- The characters find the replica secret door in the attic of the dollhouse (area 20).
+
+Once the house wills the secret door into existence, characters find it automatically if they search the wall (no ability check required). Characters who descend the spiral staircase end up in area 22.
+## 22. Dungeon Level Access
+The wooden spiral staircase from the attic ends here. A narrow tunnel stretches southward before branching east and west.
+
+**Ghostly Chanting**
+From the moment they arrive in the dungeon, the characters can hear an eerie, incessant chant echoing throughout. It's impossible to gauge where the sound is coming from until the characters reach area 26 or 29. They can't discern its words until they reach area 35.
+## 23. Family Crypts
+Several crypts have been hewn from the earth. Each crypt is sealed with a stone slab unless noted otherwise. Removing a slab from its fitting requires a successful DC 15 Strength (Athletics) check; using a crowbar or the like grants advantage on the check.
+
+**23A. Empty Crypt**
+The blank stone slab meant to seal this crypt leans against a nearby wall. The crypt is empty.
+
+**23B. Walter's Crypt**
+The stone slab meant to seal this crypt leans against a nearby wall. Etched into it is the name Walter Durst. The crypt is empty.
+
+**23C. Gustav's Crypt**
+The stone slab is etched with the name Gustav Durst. The chamber beyond contains an empty coffin atop a stone bier. 
+
+**23D. Elizabeth's Crypt**
+The stone slab is etched with the name Elisabeth Durst. The crypt contains a stone bier with an empty coffin atop it. A swarm of insects (centipedes) boils out of the back wall and attacks if the coffin is disturbed.
+
+**23E. Rose's Crypt**
+The stone slab is etched with the name Rosavalda Durst. The chamber beyond contains an empty coffin on a stone bier.
+
+If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by Rose's ghost when this occurs is no longer possessed (see also the "Development" section in area 20).
+
+**23F. Thorn's Crypt**
+The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
+
+If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by Thorn's ghost when this occurs is no longer possessed (see also the "Development" section in area 20).
+## 24. Cult Initiates' Quarters
+A wooden table and four chairs stand at the east end of this room. To the west are four alcoves containing moldy straw pallets.
+## 25. Well and Cultist Quarters
+A 4-foot-diameter well shaft with a 3-foot-high stone lip descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the crossbeams above the well.
+
+Five side rooms once served as quarters for senior cultists. Each contains a wood-framed bed with a moldy straw mattress and a wooden chest to hold personal belongings. Each chest is secured with a rusty iron pad lock that can be picked with thieves' tools and a successful DC 15 Dexterity check.
+
+**Treasure**
+In addition to some worthless personal effects, each chest contains one or more valuable items.
+**25A.** This room's chest contains 11 gp and 60 sp in a pouch made of human skin.
+**25B.** This room's chest contains three moss agates (worth 10 gp each) in a folded piece of black cloth.
+**25C.** This room's chest contains a black leather eye patch with a carnelian (worth 50 gp) sewn into it.
+**25D.** This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp).
+**25E.** This room's chest contains a silvered shortsword (worth 110 gp).
+## 26. Hidden Spiked Pit
+The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom (Perception) check reveals an absence of footprints. Characters searching the floor for traps find a 5-footlong, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing prone and taking 3 (1d6) bludgeoning damage from the fall plus 11 (2d10) piercing damage from the spikes.
+## 27. Dining Hall
+This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor-the remains of the cult's vile banquets.
+
+In the middle of the south wall is a darkened alcove (area 28). Characters who approach within 5 feet of the alcove provoke the creature that lurks there.
+## 28. Larder
+This alcove contains a **grick** that slithers out to attack the first character it sees within 5 feet of it. Any character with a passive Wisdom (Perception) score under 12 is surprised by it. The alcove is otherwise empty.
+## 29. Ghoulish Encounter
+The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel inter section, four ghouls (former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.
+## 30. Stairs Down
+It's obvious to any character standing at the top of this 20-foot-long staircase that the ghostly chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in area 35.
+## 31. Darklord's Shrine
+	This room is festooned with moldy skeletons that hang from rusty shackles against the walls. A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands next to him. In his right hand, he holds a smoky-gray crystal orb.
+	
+	The room has exits in the west and north walls. Chanting can be heard coming from the west.
+The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five **shadows** form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
+
+The skeletons on the wall are harmless decor.
+
+**Concealed Door**
+Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom (Perception) check. It's basically an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone stair case that climbs 10 feet to a landing (area 32).
+
+**Treasure**
+The crystal orb is worth 25 gp. It can be used as an arcane focus but is not magical.
+## 32. Hidden Trapdoor
+The staircase ends at a landing with a 6-foot-high ceil ing of close-fitting planks with a wooden trapdoor set into it. The trapdoor is bolted shut from this side and can be pushed open to reveal the den (area 3) above.
+
+**Development**
+Once the trapdoor has been found and opened, it remains available to characters as a way into and out of the dungeon level.
+## 33. Cult Leaders' Den
+The door in the southwest corner is a mimic in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.
+
+A chandelier is suspended above a table in the middle of the room. Two high-backed chairs flank the table, which has an empty clay jug and two clay flagons atop it. Iron candlesticks stand in two corners, their candles long since melted away.
+## 34. Cult Leaders' Quarters
+This room contains a large wood-framed bed with a rotted feather mattress, a wardrobe containing several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. At the foot of the bed is an unlocked wooden footlocker containing some gear and magic items (see "Treasure" below).
+
+Two **ghasts** (Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.
+
+**Treasure**
+Characters searching the footlocker find a folded _cloak of protection_, a small wooden coffer (unlocked) containing four _potions of healing_, a chain shirt, a mess kit, a flask of alchemist's fire, a bullseye lantern, a set of thieves' tools, and a spellbook with a yellow leather cover containing the following wizard spells:
+
+1st level: _disguise self_, _identify_, _mage armor_, _magic missile_, _protection from evil and good_
+2nd level: _darkvision_, _hold person_, _invisibility_, _magic weapon_
+
+These items were taken from adventurers who were drawn into [[Barovia]], captured, and killed by the cult.
+## 35. Reliquary
+The ghostly chant emanating from area 38 fills this room. Characters can discern a dozen or so voices saying, over and over, "He is the Ancient. He is the Land."
+
+The cult amassed several "relics" that it used in its rituals. These worthless items are stored in thirteen niches along the walls:
+- A small, mummified, yellow hand with sharp claws (a goblin's hand) on a loop of rope
+- A knife carved from a human bone
+- A dagger with a rat's skull set into the pommel
+- An 8-inch-diameter varnished orb made from a nothic's eye
+- An aspergillum carved from bone
+- A folded cloak made from stitched ghoul skin
+- A desiccated frog lashed to a stick (could be mistaken for a _wand of polymorph_)
+- A bag full of bat guano
+- A hag's severed finger
+- A 6-inch-tall wooden figurine of a mummy, its arms crossed over its chest
+- An iron pendant adorned with a devil's face
+- The shrunken, shriveled head of a halfling
+- A small wooden coffer containing a dire wolf's withered tongue
+
+The southernmost tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis
+## 36. Prison
+The cultists shackled prisoners to the back walls of alcoves here. The prisoners are long gone (their bones litter the floor in area 27), but the rusty shackles remain.
+
+**Secret Door**
+A secret door in the south wall can be found with a successful DC 15 Wisdom (Perception) check and pulls open to reveal area 38 beyond.
+
+**Treasure**
+Hanging on the back wall of the cell marked X on the map is a human skeleton clad in a tattered black robe. The skeleton belongs to a cult member who questioned the cult's blind devotion to Strahd. Characters who search the skeleton find a gold ring (worth 25 gp) on one of its bony fingers.
+## 37. Portcullis
+This tunnel is blocked by a rusty iron portcullis that can be forcibly lifted with a successful DC 20 Strength (Athletics) check. Otherwise, the portcullis can be raised or lowered by turning a wooden wheel half-embedded in the east wall of area 38. (The wheel is beyond the reach of someone east of the portcullis.) The floor around the portcullis is submerged under 2 feet of murky water.
+## 38. Ritual Chamber
+The cult used to perform rituals in this sunken room. The chanting heard throughout the dungeon originates here, yet when the characters arrive, the dungeon falls silent as the chanting mysteriously stops.
+
+	The chanting stops as you peer into this forty-foot-square room. The smooth masonry walls provide excellent acoustics. Featureless stone pillars support the ceiling, and a breach in the west wall leads to a dark cave heaped with refuse. Murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood.
+The water is 2 feet deep. The ledges and central dais are 5 feet high (3 feet higher than the water's surface), and the chamber's ceiling is 16 feet high (11 feet above the dais and ledges). The chains dangling from the ceiling are 8 feet long; the cultists would shackle prisoners to the chains, dangle them above the altar, cut them open with knives, and allow the altar to be bathed in blood.
+
+Half embedded in the east wall is a wooden wheel connected to hidden chains and mechanisms. A character can use an action to turn the wheel, raising or lowering the nearby portcullis (see area 37).
+
+The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a **shambling mound**, which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see "One Must Die!" below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence (Nature) check.
+
+**One Must Die!**
+If any character climbs to the top of the dais, read:
+
+	The chanting rises once more as thirteen dark appari tions appear on the ledges overlooking the room. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids.
+	
+	"One must die!" they chant, over and over. "One must die! One must die!"
+The apparitions are harmless figments that can't be damaged, turned, or dispelled.
+
+Characters on the dais when the cultists appear must sacrifice a creature on the altar or face the cult's wrath; characters can ascertain what must be done with a successful DC 11 Intelligence (Religion) or Wisdom (Insight) check. To count as a sacrifice, a creature must die on the altar. The apparitions don't care what kind of creature is sacrificed, and they aren't fooled by illusions.
+
+If the characters make the sacrifice, the cultists fade away, but their tireless chant of "He is the Ancient. He is the Land," echoes again in the dungeon. Strahd is aware of the sacrifice, and Death House now does nothing to hinder the characters (see "Endings" below).
+
+If the characters leave the dais without making the sacrifice, the cultists' chant changes: "Lorghoth the Decayer, we awaken thee!" This chant rouses the shambling mound and prompts it to attack. It pursues prey beyond the room but won't leave the dungeon. It can move through tunnels without squeezing and completely fills its space. At the start of the shambling mound's first turn, the chant changes again: "The end comes! Death, be praised!" If the shambling mound dies, the chanting stops and the apparitions vanish forever.
+## Endings
+The mists of [[Ravenloft]] continue to surround Death House until the characters stand atop the dais and either appease or defy the cultists. Strahd is satisfied either way, prompting the mists to recede.
+## The Cult is Appeased
+Death House harbors no ill will toward a party willing to sacrifice a life to appease the cult. Once the sacrifice is made, the characters are free to go. Upon emerging from the house, the characters advance to 3rd level.
+## The Cult is Denied
+If the characters deny the cult its sacrifice and either destroy the shambling mound or escape from it, Death House attacks them as they try to leave. When they return upstairs, they must roll initiative as they discover several architectural changes:
+- All the windows are bricked up; the bricked-up windows and the outer walls are impervious to the party's weapon attacks and damage-dealing spells.
+- All the doors are gone, replaced by slashing scythe blades. A character must succeed on a DC 15 Dexterity (Acrobatics) check to pass through a blade-trapped doorway unscathed. A character who spends 1 minute studying the blades in a particular doorway can try to take advantage of a momentary gap in their repeating movements and make a DC 15 Intelligence check instead. Failing either check, a character takes 2d10 slashing damage but manages to pass through the doorway. Any creature pushed through a doorway must succeed on a DC 15 Dexterity saving throw or take the damage. The blades can't be disarmed.
+- Every room that contains a fireplace, an oven, or a stove is filled with poisonous black smoke. The room is heavily obscured, and any creature that starts its turn in the smoke must succeed on a DC 10 Constitution saving throw or take 1d10 poison damage.
+- The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength (Athletics) check. Each 5-foot section of wall that's destroyed causes a **swarm of rats** to pour out and attack. The swarm won't leave the house.
+
+Keep track of initiative as the characters make their way through the house. Once they escape, they advance to 3rd level, and the house does no more to harm them.
