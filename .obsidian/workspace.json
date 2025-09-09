@@ -63,8 +63,7 @@
               "title": "Rose and Thorn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6aef2b2aced29364",
@@ -127,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ismark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +147,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,11 +255,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91dd9e473b9089c6",
+  "active": "5ad5e7061d9b9f19",
   "lastOpenFiles": [
-    "Assets/Art/cos_main.jpg",
-    "Session Notes/Session 0.md",
     "Session Notes/Preparation Schema.md",
+    "Session Notes/Session 0.md",
+    "Assets/Art/cos_main.jpg",
     "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
     "GameNotes/Chapter 0 - Death House/Areas of The House.md",
     "Assets/Maps/death_house_dm.jpeg",
