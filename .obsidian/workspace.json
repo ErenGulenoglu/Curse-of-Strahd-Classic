@@ -8,76 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3c1eb6137b0f3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Preparation Schema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preparation Schema"
-            }
-          },
-          {
             "id": "a0122beebc59cef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameNotes/Chapter 0 - Death House/Areas of The House.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Areas of The House"
-            }
-          },
-          {
-            "id": "c329324fc34aec09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
+                "file": "Session Notes/Arc I/Arc I - Game Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rose and Thorn"
+              "title": "Arc I - Game Notes"
             }
           }
         ]
       },
       {
-        "id": "6aef2b2aced29364",
+        "id": "fe24feac1cd5d0c5",
         "type": "tabs",
         "children": [
           {
-            "id": "eea92ff595b0127f",
+            "id": "9e59c0147b960aee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Maps/death_house_dm.jpeg"
+                "file": "GameNotes/Chapter 2 - The Lands of Barovia/Barovians.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "death_house_dm"
+              "icon": "lucide-file",
+              "title": "Barovians"
             }
           },
           {
-            "id": "65dd778603916a21",
+            "id": "6ad3e397005cc753",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GameNotes/Chapter 2 - The Lands of Barovia/Vistani.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vistani"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,52 +216,52 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c3c1eb6137b0f3ff",
+  "active": "a0122beebc59cef2",
   "lastOpenFiles": [
+    "Session Notes/Players Characters/Lucius.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Vistani.md",
+    "Assets/Art/lucius.webp",
+    "Session Notes/Arc I/Arc I - Game Notes.md",
+    "Session Notes/Players Characters",
+    "Assets/Tokens/ireena_token.png",
+    "Assets/Tokens/ismark_kolyanovich.png",
+    "Assets/Maps/church.jpg",
+    "Assets/Art/Ismark Kolyanovich.webp",
+    "Assets/Art/Ireena Kolyana.jpeg",
+    "Assets/Art/Strahd.webp",
+    "Assets/Art/Strahd_Vampire.webp",
+    "Assets/Tokens/Doru.webp",
+    "Assets/Tokens/Donavich.webp",
+    "GameNotes/Introduction/Adventure Intro.md",
+    "GameNotes/Chapter 2 - The Lands of Barovia/Barovians.md",
+    "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks/Mysterious Visitors.md",
+    "Session Notes/Curse of Strahd Session 0 - Player Handout.md",
+    "GameNotes/Chapter 0 - Death House/Areas of The House.md",
+    "Session Notes/Arc I/Arc I - NPCs/Stanimir.md",
+    "Session Notes/Arc I/Arc I - NPCs/Madam Eva.md",
+    "Barovia.md",
+    "Duchess Morwen.md",
+    "Session Notes/Arc I/Arc I - NPCs",
+    "Session Notes/Session 0.md",
+    "Session Notes/Arc I",
+    "Session Notes/Table 1",
+    "GameNotes/Chapter 0 - Death House/Death House.md",
+    "GameNotes/Chapter 0 - Death House/Death House Sidebars.md",
+    "GameNotes/Chapter 0 - Death House/History.md",
+    "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
+    "GameNotes/Chapter 0 - Death House/Strahd Letter.md",
+    "dinner_strahd.pdf",
+    "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library).pdf",
     "GameNotes/README.md",
     "GameNotes/Welcome.md",
-    "Session Notes/Preparation Schema.md",
-    "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library).pdf",
-    "Assets/Maps/death_house_dm.jpeg",
-    "Session Notes/Session 0.md",
-    "Assets/Art/cos_main.jpg",
-    "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
-    "GameNotes/Chapter 0 - Death House/Areas of The House.md",
-    "GameNotes/Chapter 0 - Death House/Death House Sidebars.md",
-    "GameNotes/Chapter 0 - Death House/Strahd Letter.md",
     "Untitled.base",
-    "Assets/Maps/Barovia_Map_Alternative.webp",
-    "Assets/Maps/dm_map.png",
-    "Assets/Tokens/strahd.webp",
-    "Assets/Maps/Barovia_Map.jpg",
-    "Assets/Maps/death_house.jpg",
-    "GameNotes/Chapter 2 - The Lands of Barovia/Barovians.md",
-    "Assets/Art/rose_thorn.png",
-    "GameNotes/Chapter 0 - Death House/History.md",
-    "GameNotes/Chapter 0 - Death House/Death House.md",
     "GameNotes/Chapter 1 - Into the Mists/Strahd von Zarovich.md",
-    "Assets/Stats/strahd_stats.png",
     "GameNotes/Chapter 2 - The Lands of Barovia/Areas of Barovia.md",
     "GameNotes/Chapter 2 - The Lands of Barovia/Alterations to Magic.md",
     "GameNotes/Chapter 1 - Into the Mists/Fortunes of Ravenloft.md",
-    "Assets/Stats/strahd_stats.jpeg",
     "Assets/Stats",
-    "GameNotes/Introduction/Adventure Intro.md",
     "GameNotes/Chapter 0 - Death House",
     "GameNotes/Introduction/Adventure Structure.md",
-    "GameNotes/Introduction/Marks of Horror.md",
-    "GameNotes/Introduction/Character Levels.md",
-    "GameNotes/Introduction/Story Overview.md",
-    "Assets/Art",
-    "Assets/Maps",
-    "Assets/Tokens",
-    "GameNotes/Chapter 2 - The Lands of Barovia/Random Encounters.md",
-    "Untitled.md",
-    "GameNotes/Chapter 2 - The Lands of Barovia/The Lands of Barovia.md",
-    "GameNotes/Chapter 2 - The Lands of Barovia/Lay of the Land.md",
-    "GameNotes/Chapter 2 - The Lands of Barovia/Vistani.md",
-    "GameNotes/Side Tables",
-    "GameNotes/Chapter 2 - The Lands of Barovia",
-    "Session Notes"
+    "Assets/Art"
   ]
 }

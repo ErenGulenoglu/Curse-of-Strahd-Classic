@@ -1,4 +1,3 @@
-
 <div style="text-align: center;">
   <img src="death_house_dm.jpeg" width="650px" />
 </div>

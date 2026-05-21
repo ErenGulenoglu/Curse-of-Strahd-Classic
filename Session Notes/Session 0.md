@@ -1,4 +1,9 @@
-Talk expectations with players
-Zoe Ireena, Laz Ismark
-
-Themes, Character creation, Lucky ban
+- **Explain Forgotten Realms and where will the game start depending on their answers.**
+	- They can start in Daggerford, as adventurers in the service of Duchess Morwen of Daggerford. As the Greengrass festival has arrived as official marker of the arrival of spring, she declares holiday for the town, distributing food, wine, and flowers, celebrating fertility festival in the name of the Earthmother. During this time, some wayward travelers camped outside of the town. They wanted from the gifts that Duchess gave to her people, but did not leave, and even demanded gifts from the townspeople. Tonight, the Duchess gives dinner for her inner circle, and will want the adventurers to solve this problem, or else deliver her message that she will burn their wagons if they don't leave by dawn.
+	- If they are members of an organization, the game can start with Werewolves in the mist opening. Their faction would bring them together, and would hand them a quest.
+	- Else, the characters are a group of adventurers who are travelling to Waterdeep, coming from southern road for a certain reason.
+- **Character creation using Aurora.**
+- **Bans: Lucky Feat**
+- **Asks for niche mechanics they want to use: Potion Crafting, Item Smithing**
+- **Ask for themes in their mind and classes they want to play.**
+- **Party Cohesion.** What brings the characters together into a cohesive group? Are they members of an organization in the realm?

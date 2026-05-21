@@ -3,16 +3,12 @@
 </div>
 
 After his armies occupied the valley and slew its inhabitants, [[Strahd von Zarovich|Strahd]] repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.
-
-Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby expressing their disapproval of anything that isn't familiar to them. Barovians aren't talkative with strangers, to the extent of being pointedly rude. Most Barovians have violent tempers that boil up through their customary silence when they are provoked. They also have asocial cohesiveness (thrust upon them by their weird circumstances) that can make them act together against outsiders if a Barovian is mistreated.
-
-Barovians were a happy people once, but their history and current conditions aren't pleasant. If one manages to win the trust of a Barovian, one has a friend for life and a stalwart ally.
-
-Barovian children aren't happy children. They are raised in a culture of fear and told time and again not to wander too far from their homes or enter the woods. They experience little hope or joy, and they are taught to fear the devil Strahd above all.
-
-Barovian adults eke out modest livings. With no new wealth pouring into the valley, they trade in old coins that bear the profile of their dark lord, Strahd, as he looked when he was alive. They hide their precious baubles in their houses and dress plainly outdoors, so as not to attract the attention of Strahd or his spies.
-
-Barovians live within a closed ecosystem. Every Barovian adult is expected to learn a trade or serve a function. Barovians stitch their own clothing, craft their own furniture, grow their own food, and make their own wine. With fewer than three thousand people living in the entire valley, finding the perfect mate isn't easy, so Barovians have learned to settle for what they can get.
+- Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby expressing their disapproval of anything that isn't familiar to them. Barovians aren't talkative with strangers, to the extent of being pointedly rude. 
+- Most Barovians have violent tempers that boil up through their customary silence when they are provoked. They also have asocial cohesiveness (thrust upon them by their weird circumstances) that can make them act together against outsiders if a Barovian is mistreated.
+- Barovians were a happy people once, but their history and current conditions aren't pleasant. If one manages to win the trust of a Barovian, one has a friend for life and a stalwart ally.
+- Barovian children aren't happy children. They are raised in a culture of fear and told time and again not to wander too far from their homes or enter the woods. They experience little hope or joy, and they are taught to fear the devil Strahd above all.
+- Barovian adults eke out modest livings. With no new wealth pouring into the valley, they trade in old coins that bear the profile of their dark lord, Strahd, as he looked when he was alive. They hide their precious baubles in their houses and dress plainly outdoors, so as not to attract the attention of Strahd or his spies.
+- Barovians live within a closed ecosystem. Every Barovian adult is expected to learn a trade or serve a function. Barovians stitch their own clothing, craft their own furniture, grow their own food, and make their own wine. With fewer than three thousand people living in the entire valley, finding the perfect mate isn't easy, so Barovians have learned to settle for what they can get.
 ## Souls and Shells
 Barovians are made of flesh and blood. They are born, they live, they age, and they die. But not all of them—only about one in every ten—have souls.
 
@@ -23,7 +19,7 @@ souls wear clothes with a splash of color or individuality.
 
 Barovian woman, soulless or not, can give birth. A child born in Barovia might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.
 
-Ireena Kolyana and her brother [[Ismark Kolyanovich|Ismark]] both have souls, as do all [[Vistani]]. Which Barovians have souls and which don't is left up to you.
+[[Ireena Kolyana]] and her brother [[Ismark Kolyanovich|Ismark]] both have souls, as do all [[Vistani]]. Which Barovians have souls and which don't is left up to you.
 
 Strahd periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.
 

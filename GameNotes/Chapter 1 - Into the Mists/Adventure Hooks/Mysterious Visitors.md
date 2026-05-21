@@ -23,7 +23,7 @@ The leader of this group is [[Stanimir]] (CN male human), an old man with the st
 	3rd level (3 slots): bestow curse, phantom steed, vampiric touch
 	4th level (3 slots): greater invisibility, stoneskin
 	5th level (1 slot): dominate person
-Stanimir is joined by his daughter, [[Damia]] (CN male human **spy**), and his son, [[Ratka]] (CN male human **bandit captain**). Nine other Vistani (CN male and female **bandits**) heed Ratka's commands. The six draft horses are used to pull the Vistani wagons, which contain their belongings but nothing of value.
+Stanimir is joined by his daughter, [[Damia]] (CN female human **spy**), and his son, [[Ratka]] (CN male human **bandit captain**). Nine other Vistani (CN male and female **bandits**) heed Ratka's commands. The six draft horses are used to pull the Vistani wagons, which contain their belongings but nothing of value.
 
 ## The Dancing Fire
 Stanimir introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
