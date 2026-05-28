@@ -1,0 +1,6 @@
+- Lucius - Ky's Hexblood Cleric (Male)
+	- He got traumatized by [[Madam Eva]], for she is a crone, and he has traumas with hags.
+- Faren Elize - Jeffrey's Character - Fire Genasi Rune Fighter (Female)
+- Leila of Waterdeep - Julia's Character - Barbarian Human (Female)
+- Quarion Faen Amakiir - Ethan's Character - Wood Elf Ranger
+- Elara Voss - Lazar's Character - Human Artificer (Female)

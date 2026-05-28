@@ -6,19 +6,48 @@
       {
         "id": "5e89cffb4858d885",
         "type": "tabs",
+        "dimension": 51.52284263959391,
         "children": [
           {
-            "id": "a0122beebc59cef2",
+            "id": "fe6c8ebcaf597952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Arc I/Arc I - Game Notes.md",
+                "file": "Session Notes/Arc I/Arc I - Session 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arc I - Game Notes"
+              "title": "Arc I - Session 1"
+            }
+          },
+          {
+            "id": "a28a1fda294c0ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Arc I/Arc I - Session 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc I - Session 2"
+            }
+          },
+          {
+            "id": "a9d024fbd7cd2f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Arc II/Arc II - Session 3.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc II - Session 3"
             }
           }
         ]
@@ -26,7 +55,22 @@
       {
         "id": "fe24feac1cd5d0c5",
         "type": "tabs",
+        "dimension": 48.47715736040609,
         "children": [
+          {
+            "id": "a0122beebc59cef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Arc II/Vallaki/Vallaki Lore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vallaki Lore"
+            }
+          },
           {
             "id": "9e59c0147b960aee",
             "type": "leaf",
@@ -48,15 +92,29 @@
               "type": "markdown",
               "state": {
                 "file": "GameNotes/Chapter 2 - The Lands of Barovia/Vistani.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Vistani"
             }
+          },
+          {
+            "id": "298752d362ba328a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Some Notes of Players.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Some Notes of Players"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,24 +274,42 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a0122beebc59cef2",
+  "active": "fe6c8ebcaf597952",
   "lastOpenFiles": [
-    "Session Notes/Players Characters/Lucius.md",
+    "Session Notes/Arc I/Arc I - Session 2.md",
+    "Session Notes/Arc II/Arc II - Session 3.md",
+    "Session Notes/Arc I/Arc I - Session 1.md",
+    "Some Notes of Players.md",
     "GameNotes/Chapter 2 - The Lands of Barovia/Vistani.md",
-    "Assets/Art/lucius.webp",
-    "Session Notes/Arc I/Arc I - Game Notes.md",
-    "Session Notes/Players Characters",
-    "Assets/Tokens/ireena_token.png",
-    "Assets/Tokens/ismark_kolyanovich.png",
-    "Assets/Maps/church.jpg",
-    "Assets/Art/Ismark Kolyanovich.webp",
-    "Assets/Art/Ireena Kolyana.jpeg",
-    "Assets/Art/Strahd.webp",
-    "Assets/Art/Strahd_Vampire.webp",
-    "Assets/Tokens/Doru.webp",
-    "Assets/Tokens/Donavich.webp",
-    "GameNotes/Introduction/Adventure Intro.md",
     "GameNotes/Chapter 2 - The Lands of Barovia/Barovians.md",
+    "Session Notes/Arc II/Vallaki/Blue Water Inn.md",
+    "Assets/Maps/Arc II/Vallaki/map-blue-water-inn.jpg",
+    "Assets/Maps/Arc II/map-blue-water-inn.jpg",
+    "Assets/Tokens/Nikolai Wachter.webp",
+    "Assets/Tokens/Karl Wachter.webp",
+    "Assets/Tokens/Rictavio_token.png",
+    "Assets/Art/Vallaki/Rictavio.png",
+    "Assets/Tokens/Danika Dorakova.webp",
+    "Assets/Tokens/Brom Martikov.webp",
+    "Assets/Tokens/Bray Martikov.webp",
+    "Assets/Tokens/Brom Martikov.jpg",
+    "Assets/Maps/Arc II/Vallaki",
+    "Assets/Maps/Arc II",
+    "Assets/Maps/New folder",
+    "Assets/Maps/Arc I",
+    "Assets/Maps/Random Encounters",
+    "Assets/Maps/Vallaki",
+    "Blinsky Toys.md",
+    "Town Square.md",
+    "Session Notes/Arc II/Vallaki/St. Andral's Church.md",
+    "Assets/Art/Vallaki",
+    "Assets/Art/New folder",
+    "Session Notes/Arc II/Vallaki/Vallaki Lore.md",
+    "Session Notes/Arc II/Vallaki",
+    "Session Notes/Arc II",
+    "Untitled.md",
+    "Session Notes/Players Characters/Lucius.md",
+    "GameNotes/Introduction/Adventure Intro.md",
     "GameNotes/Chapter 1 - Into the Mists/Adventure Hooks/Mysterious Visitors.md",
     "Session Notes/Curse of Strahd Session 0 - Player Handout.md",
     "GameNotes/Chapter 0 - Death House/Areas of The House.md",
@@ -241,27 +317,9 @@
     "Session Notes/Arc I/Arc I - NPCs/Madam Eva.md",
     "Barovia.md",
     "Duchess Morwen.md",
-    "Session Notes/Arc I/Arc I - NPCs",
     "Session Notes/Session 0.md",
-    "Session Notes/Arc I",
-    "Session Notes/Table 1",
     "GameNotes/Chapter 0 - Death House/Death House.md",
     "GameNotes/Chapter 0 - Death House/Death House Sidebars.md",
-    "GameNotes/Chapter 0 - Death House/History.md",
-    "GameNotes/Chapter 0 - Death House/Rose and Thorn.md",
-    "GameNotes/Chapter 0 - Death House/Strahd Letter.md",
-    "dinner_strahd.pdf",
-    "Dungeons Dragons Curse of Strahd (Wizards RPG Team) (Z-Library).pdf",
-    "GameNotes/README.md",
-    "GameNotes/Welcome.md",
-    "Untitled.base",
-    "GameNotes/Chapter 1 - Into the Mists/Strahd von Zarovich.md",
-    "GameNotes/Chapter 2 - The Lands of Barovia/Areas of Barovia.md",
-    "GameNotes/Chapter 2 - The Lands of Barovia/Alterations to Magic.md",
-    "GameNotes/Chapter 1 - Into the Mists/Fortunes of Ravenloft.md",
-    "Assets/Stats",
-    "GameNotes/Chapter 0 - Death House",
-    "GameNotes/Introduction/Adventure Structure.md",
-    "Assets/Art"
+    "GameNotes/Chapter 0 - Death House/History.md"
   ]
 }

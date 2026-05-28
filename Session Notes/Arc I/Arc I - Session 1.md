@@ -152,7 +152,7 @@ If your card reading reveals that a treasure is here, it is hidden in one of the
 - Until recently, Strahd had been paying nightly visits to [[lreena Kolyana]], the adopted daughter of the village burgomaster.
 	- Ireena carries the soul of Strahd's beloved Tatyana and looks exactly like her. Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 #### Approaching the village
-`Tall shapes loom out of the dense fog that surrounds everything. The muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance.`
+	Tall shapes loom out of the dense fog that surrounds everything. The muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance.
 - The sobbing comes from Mad Mary's townhouse.
 - With the exception of areas _Bildrath's Mercantile_ and _Blood of the Vine Tavern_, all the shops in the village are permanently closed, and the unoccupied shops have been looted of anything valuable. Claw marks cover most of the walls.
 - When the fog eventually burns off, Castle Ravenloft looms over the village, like a lance piercing the sky.
@@ -169,7 +169,7 @@ If your card reading reveals that a treasure is here, it is hidden in one of the
 - Bildrath trades with the Vistani when they pass through. He is also happy to make a profit from any strangers unlucky enough to find themselves here. He serves his own interests and offers no sanctuary. He never bargains since, as he says, "If you want it badly enough, you'll pay for it." He has no competition in the village.
 - If the characters give Bildrath a hard time, he calls Parriwimple (LG male human), his nephew and stockboy, to help him out. Parriwimple has the statistics of a gladiator, except that he has an Intelligence of 6 and doesn't carry a shield (AC 14). Parriwimple's real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, Parriwimple is simple-minded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say  about it.
 #### E2. Blood of the Vine Tavern
-`A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.`
+	A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 - Character with the highest passive perception sees: `Close inspection of the sign reveals that it originally read "Blood of the Vine." (An "n" has been scratched over with the "f.")
 - This once finely appointed tavern has grown shoddy over the years. A blazing fire in the hearth gives scant warmth to the few huddled souls within. They include the barkeep, three Vistani sitting together, and a man named Ismark Kolyanovich-who happens to be the son of the village burgomaster, Kolyan lndirovich.
 
@@ -289,7 +289,6 @@ This event occurs as the characters make their way through the village.
 | 4-8     | 2d4 **swarms of rats** |
 | 9-16    | Barovian villagers     |
 | 17-20   | 2d4 **Strahd zombies** |
-
 ## DM Notes
 - Once the characters leaves the wagons of Vistani, every hour spent on Barovia at night, outside of encampments, random encounters occur every 30 minutes. After experiencing 2 random encounters within 12 hours, random encounters does not occur for the next 12 hours.
 - Keep in mind travel distances, and walking order of the party. https://fosskers.github.io/curse-of-strahd/travel.html
